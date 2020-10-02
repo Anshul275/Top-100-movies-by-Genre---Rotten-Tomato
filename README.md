@@ -1,4 +1,4 @@
-<h1 align=center># Top 100 Movies by Genre - Rotten Tomatoes Scraper</h1>
+<h1 align=center>Top 100 Movies by Genre - Rotten Tomatoes Scraper</h1>
 
 Takes A Movie Genre As A Command-Line Argument, scrapes the top 100 movies of a particular genre and stores rank,rating, title of the movie and total no of reviews in the desired csv file.
 
